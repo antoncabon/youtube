@@ -1,1 +1,1 @@
-# youtube-tumbnail-generator
+# Youtube Thumbnail Generator
